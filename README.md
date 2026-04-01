@@ -15,7 +15,7 @@ which makes relationship with the values which fall into a continous range i.e x
 The algorithm takes a set of data points with known input and output values and finds the line that best fits those points.
 It is done to understand how changes in input will affect the output. with the slope which is formed we can understand and predict the relationship between the variables
 
-Code learnings: https://www.kaggle.com/code/lalithd13/notebook51142c44c8/edit
+Code learnings: https://www.kaggle.com/code/lalithd13/linear-regression
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DAY 02:
