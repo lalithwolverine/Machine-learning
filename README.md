@@ -37,3 +37,12 @@ Image processing with SciPy and numpy in python:
 images are stored as pixel format in the form of matrix with each intensty and colour values.
 we have to import imagesIO
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 03:
+
+Pandas is used for reading and writing data from/to CSV files:
+Data pre processing- handling missing values
+Data cleaning- removing null or infinite values, remove duplicates
+Transformation- Filter modify data
+Visualization- plotting and depcting what is learnt
+
