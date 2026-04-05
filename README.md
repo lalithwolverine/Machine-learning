@@ -46,3 +46,11 @@ Data cleaning- removing null or infinite values, remove duplicates
 Transformation- Filter modify data
 Visualization- plotting and depcting what is learnt
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY 04:
+
+Data pre processing: isnull() is used to find Nall values and used to replace the NaN
+isna(), fillna()- this used to replace the nan with 0
+Here is kaggle botebook with my pandas code : https://www.kaggle.com/code/lalithd13/basic-libraries
+
+
